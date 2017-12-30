@@ -3,7 +3,7 @@
 This challenge given to my friend applying for job opportunity. Finding it interesting I wanted to give it an attempt from my side.
 Condition is to use latest GNU C++ compiler standards and implement a fairely stripped down version of chess.
 
-<b>Disclaimer: (I don't own any copyright to challenge statement or idea of challenge provided by it's owner company. This is my hobby attempt at it and not an readymade solution other people to use.)</b>
+<b>Disclaimer: (I don't own any copyright to challenge statement or idea of challenge provided by it's owner company. This is my hobby attempt at it and not an readymade solution other people to use and not a complete solution for same reason)</b>
 
 Here is challenge statement:-
 
